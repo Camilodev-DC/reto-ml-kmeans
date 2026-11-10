@@ -1,0 +1,31 @@
+{
+  "numeric_features": "auto",
+  "categorical_features": [],
+  "log_features": "auto",
+  "exclude": [],
+  "drop_duplicates": true,
+  "max_missing_row": 0.5,
+  "max_missing_col": 0.4,
+  "max_categories": 15,
+  "skew_threshold": 1.0,
+  "numeric_imputer": "median",
+  "outliers": "iqr",
+  "iqr_factor": 1.5,
+  "quantiles": [
+    0.01,
+    0.99
+  ],
+  "scaler": "standard",
+  "categorical_imputer": "most_frequent",
+  "normalize_categories": true,
+  "k": 3,
+  "k_min": 2,
+  "k_max": 8,
+  "n_init": 10,
+  "random_state": 42,
+  "silhouette_sample": 5000,
+  "min_cluster_pct": 2.0,
+  "title": "",
+  "cluster_names": {},
+  "cluster_descriptions": {}
+}

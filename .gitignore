@@ -1,0 +1,9 @@
+# Copia duplicada del proyecto (descargada de Colab) y artefactos generados
+Ml_streamlit/
+*.zip
+*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
