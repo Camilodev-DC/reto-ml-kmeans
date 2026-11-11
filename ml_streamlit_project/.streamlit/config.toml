@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#ad5fff"              # botones, pestañas activas (morado del circulo)
+backgroundColor = "#0d0b1a"           # fondo principal
+secondaryBackgroundColor = "#1a1630"  # sidebar, cajas y tablas
+textColor = "#ece9f7"
+font = "sans serif"
