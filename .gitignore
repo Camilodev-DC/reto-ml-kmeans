@@ -1,9 +1,6 @@
-# Copia duplicada del proyecto (descargada de Colab) y artefactos generados
-Ml_streamlit/
-*.zip
-*.log
+# Entorno virtual y archivos temporales de Python (no se suben)
+.venv/
+venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-.venv/
-.env

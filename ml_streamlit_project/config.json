@@ -26,6 +26,10 @@
   "silhouette_sample": 5000,
   "min_cluster_pct": 2.0,
   "title": "",
-  "cluster_names": {},
+  "cluster_names": {
+    "0": "Vinos suaves",
+    "1": "Intensos de color",
+    "2": "Ricos en prolina"
+  },
   "cluster_descriptions": {}
 }
